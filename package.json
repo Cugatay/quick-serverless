@@ -1,0 +1,12 @@
+{
+  "name": "quick-serverless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "cd functions && npm install"
+  },
+  "dependencies": {
+    "@types/node": "^15.12.4"
+  }
+}
